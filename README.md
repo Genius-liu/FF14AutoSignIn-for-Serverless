@@ -9,7 +9,7 @@
 
 
 #2.使用前
-在本地修改config.py中的内容（上传后用云端编辑器修改也可以）
+在本地修改`config.py`中的内容（上传后用云端编辑器修改也可以）
 
 
 #3.安装
@@ -24,5 +24,7 @@
 
 
 #4.用法
+部署后点击测试（如果之前没有修改`config.py`可以在这一步修改，修改后部署）
 ![image](https://github.com/Genius-liu/FF14AutoSignIn-for-Serverless/blob/main/image/4.1.png)
 ![image](https://github.com/Genius-liu/FF14AutoSignIn-for-Serverless/blob/main/image/4.2.png)
+*如果提示登陆失败，短期内登陆失败次数过多，服务器已开启验证码，请在1-3天后再试... 目前没有很好的解决办法，可能和账号的安全保护有关，可以尝试关掉一些保护功能(并不推荐）并等几天再试:(
