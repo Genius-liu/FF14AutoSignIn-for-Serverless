@@ -5,7 +5,7 @@
 *补全了运行库，修复了几处问题使本项目可以运行在腾讯云云函数
 
 1.作用  
-&nbsp;&nbsp;使用 python 的 requests 库, 实现 FF14 国服官网自动签到, 暂不支持 WeGame 帐号.  
+&nbsp;&nbsp;为了使脚本可以在云端运行，内置了 python 的 requests 库, 实现 FF14 国服官网自动签到, 暂不支持 WeGame 帐号.  
 
 2.安装
 
