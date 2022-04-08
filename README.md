@@ -15,6 +15,7 @@
 #3.安装
 3.1在腾讯云新建一个空的云函数（地区推荐选择国内）, 函数名称随便写, **运行环境:`Python3.7`**，**执行方法: `main.index`（这一点是关键）**, 并上传函数代码。
 ![image](https://github.com/Genius-liu/FF14AutoSignIn-for-Serverless/blob/main/image/3.1.png)
+*推荐将文件下载到本地以后解压并删除image文件夹，然后选择上传文件夹，较大文件解压缩时有概率出错）*
 
 3.2建议将执行超时时间设置长一点，推荐设置为30-60秒
 ![image](https://github.com/Genius-liu/FF14AutoSignIn-for-Serverless/blob/main/image/3.2.png)
